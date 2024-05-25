@@ -8,11 +8,11 @@ img{
     height: auto;
 }
 #portfolio-section{
-    background-color: #068FFF;
+    background-color: #14A3C7;
     border-radius: 5px;
 }
 #contact-section{
-    background-color: #29465B;
+    background-color: #153247;
     border-radius: 5px;
 }
 #home-section{
@@ -362,7 +362,7 @@ img{
 
 .profilecard.hovercard .avatar {
     position: relative;  
-    background-color: #4E4FEB;
+    background-color:  #29465B;
 }
 
 .profilecard.hovercard .avatar img {
@@ -373,7 +373,7 @@ img{
 }
 
 .profilename{
-    color: #4E4FEB;
+    color:  #29465B;
     font-size: 100px;
     font-weight: bolder;
 }
@@ -397,7 +397,7 @@ img{
 
 :root {
     --main-color: #ffffff;
-    --point-color: #4E4FEB;
+    --point-color:  #29465B;
     --size: 5px;
   }
   
