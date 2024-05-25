@@ -362,7 +362,7 @@ img{
 
 .profilecard.hovercard .avatar {
     position: relative;  
-    background-color:  #29465B;
+    background-color: #153247;
 }
 
 .profilecard.hovercard .avatar img {
@@ -373,7 +373,7 @@ img{
 }
 
 .profilename{
-    color:  #29465B;
+    color: #153247;
     font-size: 100px;
     font-weight: bolder;
 }
@@ -397,7 +397,7 @@ img{
 
 :root {
     --main-color: #ffffff;
-    --point-color:  #29465B;
+    --point-color:  #153247;
     --size: 5px;
   }
   
