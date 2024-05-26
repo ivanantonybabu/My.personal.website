@@ -8,20 +8,20 @@ img{
     height: auto;
 }
 #portfolio-section{
-    background-color: #14A3C7;
+    background-color: #16a98c;
     border-radius: 5px;
 }
 #contact-section{
-    background-color: #153247;
+    background-color: #16a98c;
     border-radius: 5px;
 }
 #home-section{
-    background-color: #153247;
+    background-color: #16a98c;
     border-radius: 5px;
 }
 .timeline {
     position: relative;
-    background: #272e48;
+    background: #198484;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 5px;
@@ -35,7 +35,7 @@ img{
     top: 0;
     left: 50%;
     margin-left: -2px;
-    border-right: 2px dashed #4b546f;
+    border-right: 2px dashed #eff1e9;
     height: 100%;
     display: block;
 }
@@ -51,7 +51,7 @@ img{
     top: 15px;
     text-align: right;
     margin-right: 20px;
-    color: #7f92b7;
+    color: #0e0a01;
     font-size: 1.5rem;
 }
 .timeline-row .timeline-time small {
@@ -61,7 +61,7 @@ img{
 .timeline-row .timeline-content {
     position: relative;
     padding: 20px 30px;
-    background: #1a233a;
+    background: #051d1f;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
@@ -77,7 +77,7 @@ img{
     top: 20px;
     height: 16px;
     width: 16px;
-    background: #1a233a;
+    background: #051d1f;
 }
 .timeline-row .timeline-content:before {
     content: "";
@@ -90,8 +90,8 @@ img{
     -moz-border-radius: 100px;
     border-radius: 100px;
     z-index: 10;
-    background: #272e48;
-    border: 2px dashed #4b546f;
+    background: #a1a8a1;
+    border: 2px dashed #babfcf;
 }
 .timeline-row .timeline-content h4 {
     margin: 0 0 20px 0;
@@ -111,7 +111,7 @@ img{
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
     border-radius: 100px;
-    background: #272e48;
+    background: #06af74;
     margin-bottom: 10px;
     display: inline-block;
 }
@@ -124,8 +124,8 @@ img{
     max-width: 60px;
 }
 .timeline-row .timeline-content .badge {
-    color: #ffffff;
-    background: linear-gradient(120deg, #00b5fd 0%, #0047b1 100%);
+    color: #981162;
+    background: linear-gradient(120deg, #00b5fd 0%, #3dc314 100%);
 }
 .timeline-row:nth-child(even) .timeline-content {
     margin-left: 40px;
@@ -210,7 +210,7 @@ img{
 }
 
 .card-body{
-    background-color: #272e48; 
+    background-color: #198484; 
     border-radius: 5px;   
     width: 100%;
 }
@@ -230,7 +230,7 @@ img{
     left: 50%;
     width: 2px;
     margin-left: -1.5px;    
-    border: 2px dashed #4b546f;
+    border: 2px dashed #033516;
 }
 .timeline2 > .timeline2-item {
     position: relative;
@@ -249,9 +249,9 @@ img{
     position: relative;
     width: 47%;    
     padding: 20px;
-    border: 1px solid #1a233a ;
+    border: 1px solid #9e1212 ;
     border-radius: 5px;    
-    background: #1a233a;
+    background: #033E3E;
     
 }
 .timeline2 > .timeline2-item > .timeline2-panel:before {
@@ -286,7 +286,7 @@ img{
     text-align: center;
     font-size: 1.4em;
     line-height: 50px;
-    color: #fff;
+    color: #dcc9c9;
     overflow: hidden;
 }
 .timeline2 > .timeline2-item.timeline2-inverted > .timeline2-panel {
@@ -305,7 +305,7 @@ img{
     border-left-width: 0;
 }
 .timeline2-badge.primary {
-    background-color: #4E4FEB;;
+    background-color: #e76718;;
 }
 .timeline2-badge.success {
     background-color: #39c449;
@@ -362,7 +362,7 @@ img{
 
 .profilecard.hovercard .avatar {
     position: relative;  
-    background-color: #153247;
+    background-color: #16a98c;
 }
 
 .profilecard.hovercard .avatar img {
@@ -373,7 +373,7 @@ img{
 }
 
 .profilename{
-    color: #153247;
+    color: #16a98c;
     font-size: 100px;
     font-weight: bolder;
 }
@@ -445,3 +445,4 @@ img{
 #bodysection{
     background-color: #0C0C0C;
 }
+
